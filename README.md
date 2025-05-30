@@ -18,3 +18,12 @@
 ## Application HelloSparkSQL
 - Création d'une vue global
 - Requête SQL sur cette vue global
+
+## Application SparkSchemaDemo
+- Différence entre plusieurs format de fichier de données avec inferSchema
+- Schéma explicit
+
+## Application DataSinkDemo
+- Utilisation de repartition()
+- Utilisation de partitionBy() dans write
+

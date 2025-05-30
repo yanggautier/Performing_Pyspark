@@ -8,6 +8,7 @@ class Log4j:
 
         self.logger = log4j.LogManager.getLogger(root_class + "." + app_name)
 
+
     def warn(self, message):
         self.logger.warn(message)
 
